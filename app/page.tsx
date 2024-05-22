@@ -19,7 +19,7 @@ export default function HomePage() {
             </Title>
 
             <Text className={classes.description} mt={30}>
-              Global Certification Limited (GCL) International by GSTC Accreditation Team
+              Global Sustainable Tourism Council (GSTC)
             </Text>
 
             <Link href="/login">
